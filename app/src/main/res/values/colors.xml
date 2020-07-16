@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="global_background">#EEC0FF</color>
+    <color name="toolbar_background">#570A77</color>
+    <color name="cardview_background">#9D77E4</color>
+    <color name="search_background">#FCDCFF</color>
+    <color name="detail_background">#E29FFF</color>
+</resources>
